@@ -1,3 +1,17 @@
+
+
+## Once We Get The Context Of Canas Element
+    1. Clear the canvas
+    2. Redraw the snake at current position 
+    3. Create the prey at random position
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

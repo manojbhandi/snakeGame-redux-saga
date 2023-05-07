@@ -1,0 +1,3 @@
+after getting the context :
+    1. Clear Canvas
+    2. 
